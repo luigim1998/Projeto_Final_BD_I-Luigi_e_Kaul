@@ -1,0 +1,57 @@
+body{
+    background-color: green;
+}
+
+.login_part{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 8px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 30%;
+    height: 40%;
+    position: relative;
+    left: 65%;
+}
+
+.acess{
+    border-style:solid;
+    border-width: 3px;
+    border-radius: 8px; 
+    margin-top: 20px;
+    padding: 15px;
+    position: relative;
+    left: 33%;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+
+.aba{
+    border-style:solid;
+    border-width: 3px;
+    border-radius: 8px; 
+    margin-top: 20px;
+    padding: 15px;
+    position: relative;
+    left: 33%;
+    width: 33%;
+    height: 30%;
+}
+
+.bnb{
+    border-style:solid;
+    border-width: 3px;
+    border-radius: 8px; 
+    margin-top: 20px;
+    padding: 15px;
+    position: relative;
+    left: 33%;
+    width: 33%;
+    height: 30%;
+    text-align: center;
+}
+
+.sep{
+    text-align: justify;
+}
